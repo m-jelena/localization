@@ -1,0 +1,2 @@
+# localization
+Angular localization example
