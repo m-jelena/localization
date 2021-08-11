@@ -1,0 +1,16 @@
+{  
+    "Sitetitle": "Test",
+    "button.en": "English",  
+    "button.sr-latn": "Serbain Latin",  
+    "button.sr-cyrl": "Serbian Cyrillic",
+    "login": {  
+        "title": "Login",  
+        "username.label": "Username",  
+        "username.placeholder": "Username Here",  
+        "password.label": "Password",  
+        "password.placeholder": "Enter Password",  
+        "button.name": "Signin",  
+        "forgotpassword.link": "Forgot Password?",  
+        "register.link": "Create New Account"
+    }  
+}

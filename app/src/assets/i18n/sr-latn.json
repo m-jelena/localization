@@ -1,0 +1,16 @@
+{  
+    "Sitetitle": "Test",
+    "button.en": "English",  
+    "button.sr-latn": "Latinica",  
+    "button.sr-cyrl": "Ћирилица",
+    "login": {  
+        "title": "Uloguj se",  
+        "username.label": "Korisničko ime",  
+        "username.placeholder": "Korisničko ime ovde",  
+        "password.label": "Lozinka",  
+        "password.placeholder": "Unesi lozinku",  
+        "button.name": "Uloguj se",  
+        "forgotpassword.link": "Zaboravljena lozinka?",  
+        "register.link": "Prijavi se"
+    }  
+}

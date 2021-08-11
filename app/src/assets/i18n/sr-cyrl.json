@@ -1,0 +1,16 @@
+{  
+    "Sitetitle": "Тест",
+    "button.en": "English",  
+    "button.sr-latn": "Latinica",  
+    "button.sr-cyrl": "Ћирилица",
+    "login": {  
+        "title": "Логин",  
+        "username.label": "Корисничко име",  
+        "username.placeholder": "Корисничко име овде",  
+        "password.label": "Лозинка",  
+        "password.placeholder": "Унеси лозинку",  
+        "button.name": "Улогуј се",  
+        "forgotpassword.link": "Заборављена лозинка?",  
+        "register.link": "Пријави се"
+    }  
+}
